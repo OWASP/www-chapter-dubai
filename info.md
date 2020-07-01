@@ -1,7 +1,5 @@
-### Dubai Information
-* Provide Group Information
-
 ### Social Links
+* [Twitter](https://twitter.com/OWASP_Dubai)
 * [Meetup](#)
 
 
