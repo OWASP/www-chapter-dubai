@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Dubai
 tags: 
 region: Asia
+meetup-group:
 
 ---
 
