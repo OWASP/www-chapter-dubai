@@ -1,0 +1,30 @@
+community:
+  - name: chapter-dubai
+    platform: slack
+    url: https://owasp.slack.com/archives/C07UHTY7NCU
+leaders:
+  - name: Ahmed Abdallah
+    email: ahmed.abdallah@owasp.org
+    github: ayossef21
+  - name: Mahmoud Hussein
+    email: mahmoud.hussein@owasp.org
+  - name: Mohamed Ibrahim
+    email: mohamed.ibrahim@owasp.org
+location:
+  country: United Arab Emirates
+  country_code: AE
+  region: Dubai
+  city: Dubai
+  latitude: 25.074282349999997
+  longitude: 55.18853865430702
+meetup_group: meetup-group-svgchist
+name: OWASP Dubai
+repositories:
+  - name: www-chapter-dubai
+    url: https://github.com/OWASP/www-chapter-dubai
+    description: OWASP Foundation Web Repository
+tags:
+  - Dubai
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-dubai
